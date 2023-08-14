@@ -1,0 +1,15 @@
+Name: 类型
+Type: FolderType
+Children:
+- Name: 发动机
+  Id: g=40dcfb06faf686a53f25a5293277c53a
+  Supertype: BaseObjectType
+  Children:
+  - Name: 速度
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Variable2
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0

@@ -1,0 +1,5 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: 类型/类型.yaml
+- File: 模式/模式.yaml
